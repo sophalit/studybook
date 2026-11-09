@@ -1,0 +1,289 @@
+{
+ "slug": "khmer-daily-greetings",
+ "title_ko": "ការសន្ទនា និងការគួរសមប្រចាំថ្ងៃ",
+ "title_en": "Daily Greetings & Polite Expressions",
+ "subtitle": "ឃ្លាគួរសមដែលប្រើប្រាស់រាល់ថ្ងៃក្នុងសង្គមខ្មែរ",
+ "description": "រៀនពីការសន្ទនា និងការគួរសមប្រចាំថ្ងៃជាភាសាខ្មែរ៖ កាតរូបភាព សំឡេងជនជាតិដើម សំណួរចម្លើយ និងពាក្យគន្លឹះ។",
+ "sections": [
+  {
+   "id": "greet",
+   "ko": "ការស្វាគមន៍",
+   "en": "Greetings",
+   "color": "#0052A4"
+  },
+  {
+   "id": "polite",
+   "ko": "ការគួរសម",
+   "en": "Polite Phrases",
+   "color": "#00A84D"
+  },
+  {
+   "id": "farewell",
+   "ko": "ការលាគ្នា",
+   "en": "Farewells",
+   "color": "#EF7C1C"
+  }
+ ],
+ "spine": {
+  "title": "លំដាប់លំដោយនៃការសន្ទនា",
+  "note": "ពីការជួបស្វាគមន៍ ការសន្ទនាគួរសម រហូតដល់ការលាគ្នាទៅវិញទៅមក"
+ },
+ "explain": {
+  "title": "ទិដ្ឋភាពទូទៅ · The big picture",
+  "why": "នៅក្នុងវប្បធម៌ខ្មែរ ការសំពះ និងការប្រើប្រាស់ពាក្យគួរសមឆ្លុះបញ្ចាំងពីការគោរព សីលធម៌ និងភាពស្និទ្ធស្នាលក្នុងសង្គម។",
+  "tiles": [
+   {
+    "img": "img/x-sampeah.svg",
+    "ko": "ការសំពះ",
+    "en": "Hand gesture of respect",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-polite.svg",
+    "ko": "បាទ / ចាស",
+    "en": "Polite response words",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-respect.svg",
+    "ko": "ការគោរព",
+    "en": "Respecting elders & peers",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/x-smile.svg",
+    "ko": "ស្នាមញញឹម",
+    "en": "Friendly and warm smile",
+    "color": "#EF7C1C"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "greet",
+   "img": "img/c1-sampeah.svg",
+   "flat": true,
+   "alt": "Two hands pressed together in Sampeah greeting",
+   "hook": "ជំរាបសួរ",
+   "ko": "ជំរាបសួរ! តើអ្នកសុខសប្បាយជាទេ?",
+   "en": "Hello! How are you doing?",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "greet",
+   "img": "img/c2-smile.svg",
+   "flat": true,
+   "alt": "Smiling face with a welcoming gesture",
+   "hook": "សួស្តី",
+   "ko": "សួស្តី! រីករាយណាស់ដែលបានជួបអ្នក។",
+   "en": "Hi! So nice to meet you.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "greet",
+   "img": "img/c3-thumbsup.svg",
+   "flat": true,
+   "alt": "Hand giving a calm thumbs up gesture",
+   "hook": "ធម្មតា",
+   "ko": "ខ្ញុំសុខសប្បាយជាធម្មតាទេ អរគុណច្រើន។",
+   "en": "I am doing well as usual, thank you very much.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "polite",
+   "img": "img/c4-heart.svg",
+   "flat": true,
+   "alt": "Heart shape with decorative ribbon of appreciation",
+   "hook": "អរគុណ",
+   "ko": "អរគុណច្រើនសម្រាប់ជំនួយ និងទឹកចិត្តដ៏ល្អរបស់អ្នក។",
+   "en": "Thank you very much for your kind help and warmth.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "polite",
+   "img": "img/c5-check.svg",
+   "flat": true,
+   "alt": "Green checkmark inside a round circle",
+   "hook": "មិនអីទេ",
+   "ko": "មិនអីទេ កុំគិតច្រើនអី ខ្ញុំរីករាយនឹងជួយ។",
+   "en": "You're welcome, don't worry about it, I'm glad to help.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "polite",
+   "img": "img/c6-question.svg",
+   "flat": true,
+   "alt": "Polite question bubble with speech mark",
+   "hook": "សូមទោស",
+   "ko": "សូមទោស តើខ្ញុំអាចសួរនាំអ្វីបន្តិចបានទេ?",
+   "en": "Excuse me, could I ask you a quick question?",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "farewell",
+   "img": "img/c7-car.svg",
+   "flat": true,
+   "alt": "Clean car traveling safely on road",
+   "hook": "សុវត្ថិភាព",
+   "ko": "សូមអញ្ជើញធ្វើដំណើរទៅដោយសុវត្ថិភាព។ សំណាងល្អ!",
+   "en": "Have a very safe trip and best of luck!",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "farewell",
+   "img": "img/c8-wave.svg",
+   "flat": true,
+   "alt": "Waving hand saying goodbye until next time",
+   "hook": "ជួបគ្នា",
+   "ko": "ជួបគ្នានៅពេលក្រោយទៀតណា។ ជំរាបលា!",
+   "en": "See you again next time, goodbye!",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "ចំណុចគួរយល់ដឹង · Traps & Culture",
+   "why": "កម្រិតនៃការសំពះនៅក្នុងវប្បធម៌ខ្មែរមាន ៥ កម្រិត អាស្រ័យលើវ័យ និងឋានៈរបស់អ្នកដែលយើងជួប។",
+   "items": [
+    {
+     "q": "តើត្រូវសំពះកម្រិតណាពេលជួបមិត្តភក្តិ ឬអ្នកដែលមានវ័យស្មើគ្នា?",
+     "a": "ចំពោះមិត្តភក្តិ គេលើកដៃសំពះត្រឹមដើមទ្រូង ឬគ្រាន់តែងក់ក្បាលញញឹមក៏បាន។",
+     "audio": "audio/qa01.mp3",
+     "qaudio": "audio/qq01.mp3"
+    },
+    {
+     "q": "តើពាក្យ 'បាទ' និង 'ចាស' ប្រើប្រាស់ខុសគ្នាយ៉ាងដូចម្តេច?",
+     "a": "'បាទ' ប្រើសម្រាប់បុរស ចំណែក 'ចាស' ប្រើសម្រាប់ស្ត្រី ដើម្បីបញ្ជាក់ការយល់ព្រម ឬឆ្លើយតបដោយការគួរសម។",
+     "audio": "audio/qa02.mp3",
+     "qaudio": "audio/qq02.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "សំណួរដែលតែងជួបញឹកញាប់ · Common Q&A",
+   "items": [
+    {
+     "q": "តើប្រជាជនខ្មែរនិយមសួរសុខទុក្ខយ៉ាងដូចម្តេចក្រៅពីពាក្យ 'សុខសប្បាយជាទេ'?",
+     "a": "ជាទូទៅគេតែងសួរដោយស្និទ្ធស្នាលថា 'តើបានពិសារបាយហើយឬនៅ?'។",
+     "audio": "audio/qa03.mp3",
+     "qaudio": "audio/qq03.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "ឃ្លាសង្គ្រោះបន្ទាន់ · Survival Lines",
+   "items": [
+    {
+     "ko": "សូមអភ័យទោស សូមជួយនិយាយម្តងទៀតបានទេ?",
+     "en": "Excuse me, could you please repeat that again?",
+     "audio": "audio/qs01.mp3"
+    },
+    {
+     "ko": "ខ្ញុំមិនទាន់យល់ច្បាស់ទេ សូមជួយពន្យល់បន្តិច។",
+     "en": "I don't quite understand yet, could you explain a bit?",
+     "audio": "audio/qs02.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ពាក្យស្វាគមន៍ · Greetings",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "ជំរាបសួរ",
+     "en": "Hello (formal)",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "សួស្តី",
+     "en": "Hi / Hello (informal)",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "សុខសប្បាយ",
+     "en": "Fine / Well",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ជួបគ្នា",
+     "en": "Meet each other",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យគួរសម · Courtesy",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "អរគុណ",
+     "en": "Thank you",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "សូមទោស",
+     "en": "Excuse me / Sorry",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "មិនអីទេ",
+     "en": "No problem / You're welcome",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "សូមអញ្ជើញ",
+     "en": "Please / You're invited",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ការលាគ្នា · Farewells",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "ជំរាបលា",
+     "en": "Goodbye (formal)",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "សុវត្ថិភាព",
+     "en": "Safety / Safe",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "សំណាងល្អ",
+     "en": "Good luck",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ពេលក្រោយ",
+     "en": "Later / Next time",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "ការស្វាគមន៍ · Greetings",
+   "ko": "ជំរាបសួរ! តើអ្នកសុខសប្បាយជាទេ? សួស្តី! រីករាយណាស់ដែលបានជួបអ្នក។ ខ្ញុំសុខសប្បាយជាធម្មតាទេ អរគុណច្រើន។",
+   "en": "Hello! How are you doing? Hi! So nice to meet you. I am doing well as usual, thank you very much."
+  },
+  {
+   "title": "ការគួរសម · Polite Phrases",
+   "ko": "អរគុណច្រើនសម្រាប់ជំនួយ និងទឹកចិត្តដ៏ល្អរបស់អ្នក។ មិនអីទេ កុំគិតច្រើនអី ខ្ញុំរីករាយនឹងជួយ។ សូមទោស តើខ្ញុំអាចសួរនាំអ្វីបន្តិចបានទេ?",
+   "en": "Thank you very much for your kind help and warmth. You're welcome, don't worry about it, I'm glad to help. Excuse me, could I ask you a quick question?"
+  },
+  {
+   "title": "ការលាគ្នា · Farewells",
+   "ko": "សូមអញ្ជើញធ្វើដំណើរទៅដោយសុវត្ថិភាព និងសំណាងល្អ! ជួបគ្នានៅពេលក្រោយទៀតណា ជំរាបលា!",
+   "en": "Have a very safe trip and best of luck! See you again next time, goodbye!"
+  }
+ ]
+}
