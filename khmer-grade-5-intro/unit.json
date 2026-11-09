@@ -1,0 +1,316 @@
+{
+ "slug": "khmer-grade-5-intro",
+ "title_ko": "ការណែនាំសៀវភៅ ភាសាខ្មែរ ថ្នាក់ទី៥",
+ "title_en": "Introduction to Khmer Grade 5 Textbook",
+ "subtitle": "ស្វែងយល់អំពីរចនាសម្ព័ន្ធ មាតិកា និងបំណិនសំខាន់ៗនៃសៀវភៅភាសាខ្មែរ ថ្នាក់ទី៥",
+ "description": "ណែនាំត្រួសៗអំពីសៀវភៅភាសាខ្មែរថ្នាក់ទី៥៖ គោលបំណង បំណិនទាំងបួន មេរៀនសំខាន់ៗទាំង១០ និងវិធីសាស្ត្ររៀនឱ្យពូកែ។",
+ "sections": [
+  {
+   "id": "goals",
+   "ko": "គោលបំណង និងបំណិនគ្រឹះ",
+   "en": "Goals & Four Skills",
+   "color": "#0052A4"
+  },
+  {
+   "id": "content",
+   "ko": "មាតិកា និងប្រធានបទ",
+   "en": "Contents & Themes",
+   "color": "#00A84D"
+  },
+  {
+   "id": "tools",
+   "ko": "ឧបករណ៍ជំនួយ និងការវាយតម្លៃ",
+   "en": "Tools & Assessment",
+   "color": "#EF7C1C"
+  }
+ ],
+ "spine": {
+  "title": "ដំណើរនៃការសិក្សា",
+  "note": "ពីគោលបំណងកម្មវិធីសិក្សា ខ្លឹមសារមេរៀនទាំង១០ រហូតដល់ការវាយតម្លៃអំណាន"
+ },
+ "explain": {
+  "title": "ទិដ្ឋភាពទូទៅ · The big picture",
+  "why": "សៀវភៅភាសាខ្មែរថ្នាក់ទី៥ រៀបចំឡើងដើម្បីពង្រឹងបំណិនភាសា អភិវឌ្ឍសតិបញ្ញា និងបណ្តុះស្មារតីស្នេហាជាតិ វប្បធម៌ និងចំណេះដឹងទូទៅ។",
+  "tiles": [
+   {
+    "img": "img/x-skills.svg",
+    "ko": "បំណិនទាំងបួន",
+    "en": "Four core language skills",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-heroes.svg",
+    "ko": "វីរជន និងគំរូ",
+    "en": "Outstanding role models",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-literature.svg",
+    "ko": "អក្សរសិល្ប៍ជាតិ",
+    "en": "National literary heritage",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/x-glossary.svg",
+    "ko": "វចនានុក្រម",
+    "en": "Vocabulary & self-testing",
+    "color": "#EF7C1C"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "goals",
+   "img": "img/c01-book.svg",
+   "flat": true,
+   "alt": "Cover of Khmer Grade 5 textbook",
+   "hook": "កម្មវិធីថ្មី",
+   "ko": "សៀវភៅភាសាខ្មែរថ្នាក់ទី៥ ត្រូវបាននិពន្ធឡើងតាមកម្មវិធីសិក្សាថ្មី របស់ក្រសួងអប់រំ យុវជន និងកីឡា។",
+   "en": "The Grade 5 Khmer textbook is composed according to the Ministry of Education's new curriculum.",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "goals",
+   "img": "img/c02-skills.svg",
+   "flat": true,
+   "alt": "Four skills icons for reading writing listening and speaking",
+   "hook": "បំណិនទាំងបួន",
+   "ko": "សៀវភៅនេះជួយអភិវឌ្ឍបំណិនគ្រឹះទាំងបួន រួមមាន៖ ការអាន ការសរសេរ ការស្តាប់ និងការនិយាយ។",
+   "en": "This book helps develop four foundational skills: reading, writing, listening, and speaking.",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "goals",
+   "img": "img/c03-heroes.svg",
+   "flat": true,
+   "alt": "Inspirational hero silhouette and stars",
+   "hook": "ជនគំរូ",
+   "ko": "ខ្លឹមសារមេរៀនបង្ហាញពីគំរូវីរជនឆ្នើមទាំងពីអតីតកាល និងបច្ចុប្បន្នកាល ដែលមានគុណប្រយោជន៍ដល់សង្គម។",
+   "en": "The lesson content highlights outstanding role models from past and present who benefit society.",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "content",
+   "img": "img/c04-poem.svg",
+   "flat": true,
+   "alt": "Ancient scroll and ink representing literature and poetry",
+   "hook": "កំណាព្យខ្មែរ",
+   "ko": "ប្អូនៗនឹងបានសិក្សាស្វែងយល់ពីកំណាព្យខ្មែរ រឿងនិទានប្រពៃណី និងសម្បត្តិអក្សរសិល្ប៍ដ៏សម្បូរបែប។",
+   "en": "Students will study and appreciate Khmer poetry, traditional folklore, and rich literary treasures.",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "content",
+   "img": "img/c05-topics.svg",
+   "flat": true,
+   "alt": "Ten lesson chapters grid",
+   "hook": "មេរៀនទាំង១០",
+   "ko": "សៀវភៅនេះបែងចែកជា១០មេរៀនធំៗ គ្របដណ្តប់លើវប្បធម៌ សីលធម៌ ផលិតផលខ្មែរ និងវិទ្យាសាស្ត្រ។",
+   "en": "The book is structured into 10 major units covering culture, ethics, local products, and science.",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "content",
+   "img": "img/c06-pencil.svg",
+   "flat": true,
+   "alt": "Pencil writing notes and dialogue exercise",
+   "hook": "លំហាត់ងាយៗ",
+   "ko": "គ្រប់មេរៀនសុទ្ធតែមានអត្ថបទសន្ទនា លំហាត់អាន និងលំហាត់សរសេរងាយយល់សម្រាប់សិស្ស។",
+   "en": "Every unit features dialogues, reading practices, and easy-to-understand writing exercises.",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "tools",
+   "img": "img/c07-test.svg",
+   "flat": true,
+   "alt": "Test sheet with checkmarks and score badge",
+   "hook": "តេស្តអំណាន",
+   "ko": "នៅចុងបញ្ចប់នៃមេរៀន ប្អូនៗអាចធ្វើតេស្តដោយខ្លួនឯង ដើម្បីវាយតម្លៃសមត្ថភាពអំណានដែលបានរៀន។",
+   "en": "At the end of lessons, students can take self-tests to assess the reading abilities they have learned.",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "tools",
+   "img": "img/c08-dictionary.svg",
+   "flat": true,
+   "alt": "Open dictionary book with glossary words",
+   "hook": "វចនានុក្រម",
+   "ko": "ផ្នែកខាងក្រោយនៃសៀវភៅ មានវចនានុក្រមជួយពន្យល់ន័យពាក្យពិបាកៗ មុនពេលរៀនជាមួយលោកគ្រូអ្នកគ្រូ។",
+   "en": "The back of the book includes a glossary to clarify difficult words before class with teachers.",
+   "audio": "audio/c08.mp3"
+  },
+  {
+   "sec": "tools",
+   "img": "img/c09-success.svg",
+   "flat": true,
+   "alt": "Graduation cap and bright glowing star",
+   "hook": "ជោគជ័យ",
+   "ko": "គណៈកម្មការនិពន្ធសូមជូនពរប្អូនៗទទួលបានជោគជ័យ និងពង្រឹងសតិបញ្ញាក្នុងការសិក្សាភាសាជាតិ!",
+   "en": "The authors wish all young students great success and bright wisdom in learning their national language!",
+   "audio": "audio/c09.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "ចំណុចគួរយល់ដឹង · Key Insights",
+   "why": "ការរៀនភាសាខ្មែរឱ្យមានប្រសិទ្ធភាពទាមទារការហ្វឹកហាត់បំណិនទាំងបួនឱ្យមានតុល្យភាពគ្នា។",
+   "items": [
+    {
+     "q": "តើគួររៀនតែការអានមួយមុខ ឬត្រូវរៀនបំណិនអ្វីខ្លះ?",
+     "a": "ត្រូវរៀនអភិវឌ្ឍបំណិនទាំងបួនទន្ទឹមគ្នា គឺការអាន ការសរសេរ ការស្តាប់ និងការនិយាយ។",
+     "audio": "audio/qa01.mp3",
+     "qaudio": "audio/qq01.mp3"
+    },
+    {
+     "q": "តើធ្វើដូចម្តេចបើជួបពាក្យពិបាកនៅក្នុងអត្ថបទអាន?",
+     "a": "ត្រូវបើកមើលវចនានុក្រម ឬបទានុក្រមនៅទំព័រ ១៤៨ ខាងក្រោយសៀវភៅ ដើម្បីមើលការពន្យល់ន័យជាមុន។",
+     "audio": "audio/qa02.mp3",
+     "qaudio": "audio/qq02.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "សំណួរដែលតែងជួបញឹកញាប់ · Common Q&A",
+   "items": [
+    {
+     "q": "តើសៀវភៅភាសាខ្មែរថ្នាក់ទី៥ មានចំនួនប៉ុន្មានមេរៀនធំៗ?",
+     "a": "មានចំនួន ១០ មេរៀនធំៗ ចាប់ពី 'វីរជនឆ្នើម' រហូតដល់ 'ប្រយោជន៍នៃវិទ្យាសាស្ត្រ'។",
+     "audio": "audio/qa03.mp3",
+     "qaudio": "audio/qq03.mp3"
+    },
+    {
+     "q": "តើមានអ្វីខ្លះនៅចុងបញ្ចប់នៃសៀវភៅភាសាខ្មែរថ្នាក់ទី៥?",
+     "a": "មានផ្នែកតេស្តអំណាននៅទំព័រ ១៤៥ និងផ្នែកវចនានុក្រមពន្យល់ពាក្យពិបាកនៅទំព័រ ១៤៨។",
+     "audio": "audio/qa04.mp3",
+     "qaudio": "audio/qq04.mp3"
+    },
+    {
+     "q": "តើអង្គភាពណាជាអ្នកបោះពុម្ព និងផ្សាយសៀវភៅនេះ?",
+     "a": "គឺគ្រឹះស្ថានបោះពុម្ពនិងចែកផ្សាយ នៃក្រសួងអប់រំ យុវជន និងកីឡា។",
+     "audio": "audio/qa05.mp3",
+     "qaudio": "audio/qq05.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "ឃ្លាសួរនាំក្នុងថ្នាក់រៀន · Classroom Phrases",
+   "items": [
+    {
+     "ko": "លោកគ្រូ អ្នកគ្រូ សូមមេត្តាជួយពន្យល់ន័យពាក្យនេះឡើងវិញបានទេ?",
+     "en": "Teacher, could you please kindly explain the meaning of this word again?",
+     "audio": "audio/qs01.mp3"
+    },
+    {
+     "ko": "ខ្ញុំមិនទាន់យល់ចំណុចនេះច្បាស់ទេ សូមជួយណែនាំបន្ថែម។",
+     "en": "I don't quite understand this point yet, please provide more guidance.",
+     "audio": "audio/qs02.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "បំណិនភាសា · Language Skills",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "អំណាន",
+     "en": "Reading skill",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "សំណេរ",
+     "en": "Writing skill",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ការស្តាប់",
+     "en": "Listening skill",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ការនិយាយ",
+     "en": "Speaking skill",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "រចនាសម្ព័ន្ធសៀវភៅ · Book Structure",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "អារម្ភកថា",
+     "en": "Preface / Foreword",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "បញ្ជីអត្ថបទ",
+     "en": "Table of Contents",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "មាតិកា",
+     "en": "Contents / Curriculum",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "វចនានុក្រម",
+     "en": "Glossary / Dictionary",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "តេស្តអំណាន",
+     "en": "Reading Assessment",
+     "audio": "audio/v09.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ប្រធានបទមេរៀន · Lesson Themes",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "វីរជនឆ្នើម",
+     "en": "Outstanding Heroes",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "អក្សរសិល្ប៍",
+     "en": "Khmer Literature",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "កំណាព្យខ្មែរ",
+     "en": "Khmer Poetry",
+     "audio": "audio/v12.mp3"
+    },
+    {
+     "ko": "ផលិតផលខ្មែរ",
+     "en": "Local Khmer Products",
+     "audio": "audio/v13.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "គោលបំណង និងបំណិនគ្រឹះ · Goals & Four Skills",
+   "ko": "សៀវភៅភាសាខ្មែរថ្នាក់ទី៥ ត្រូវបាននិពន្ធឡើងតាមកម្មវិធីសិក្សាថ្មី របស់ក្រសួងអប់រំ យុវជន និងកីឡា។ សៀវភៅនេះជួយអភិវឌ្ឍបំណិនគ្រឹះទាំងបួន រួមមាន៖ ការអាន ការសរសេរ ការស្តាប់ និងការនិយាយ។ ខ្លឹមសារមេរៀនបង្ហាញពីគំរូវីរជនឆ្នើមទាំងពីអតីតកាល និងបច្ចុប្បន្នកាល ដែលមានគុណប្រយោជន៍ដល់សង្គម។",
+   "en": "The Grade 5 Khmer textbook is composed according to the Ministry of Education's new curriculum. This book helps develop four foundational skills: reading, writing, listening, and speaking. The lesson content highlights outstanding role models from past and present who benefit society."
+  },
+  {
+   "title": "មាតិកា និងប្រធានបទ · Contents & Themes",
+   "ko": "ប្អូនៗនឹងបានសិក្សាស្វែងយល់ពីកំណាព្យខ្មែរ រឿងនិទានប្រពៃណី និងសម្បត្តិអក្សរសិល្ប៍ដ៏សម្បូរបែប។ សៀវភៅនេះបែងចែកជា១០មេរៀនធំៗ គ្របដណ្តប់លើវប្បធម៌ សីលធម៌ ផលិតផលខ្មែរ និងវិទ្យាសាស្ត្រ។ គ្រប់មេរៀនសុទ្ធតែមានអត្ថបទសន្ទនា លំហាត់អាន និងលំហាត់សរសេរងាយយល់សម្រាប់សិស្ស។",
+   "en": "Students will study and appreciate Khmer poetry, traditional folklore, and rich literary treasures. The book is structured into 10 major units covering culture, ethics, local products, and science. Every unit features dialogues, reading practices, and easy-to-understand writing exercises."
+  },
+  {
+   "title": "ឧបករណ៍ជំនួយ និងការវាយតម្លៃ · Tools & Assessment",
+   "ko": "នៅចុងបញ្ចប់នៃមេរៀន ប្អូនៗអាចធ្វើតេស្តដោយខ្លួនឯង ដើម្បីវាយតម្លៃសមត្ថភាពអំណានដែលបានរៀន។ ផ្នែកខាងក្រោយនៃសៀវភៅ មានវចនានុក្រមជួយពន្យល់ន័យពាក្យពិបាកៗ មុនពេលរៀនជាមួយលោកគ្រូអ្នកគ្រូ។ គណៈកម្មការនិពន្ធសូមជូនពរប្អូនៗទទួលបានជោគជ័យ និងពង្រឹងសតិបញ្ញាក្នុងការសិក្សាភាសាជាតិ!",
+   "en": "At the end of lessons, students can take self-tests to assess the reading abilities they have learned. The back of the book includes a glossary to clarify difficult words before class with teachers. The authors wish all young students great success and bright wisdom in learning their national language!"
+  }
+ ]
+}
